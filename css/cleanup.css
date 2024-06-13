@@ -1,1 +1,19 @@
-/* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+  .tag-1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #tag-2 {
+    font-size: larger;
+  }
+  #tag-3 {
+    font-style: italic;
+    opacity: 0.3;
+  }
+  #tag-4 {
+    position: absolute;
+    top: 500px;
+    left: 500px;
+  }
+  
